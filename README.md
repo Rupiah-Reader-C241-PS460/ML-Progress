@@ -13,7 +13,10 @@ Handpicked from:
 * [Rupiah Detector (roboflow)](https://universe.roboflow.com/rupiah-detector/rupiah-detector-qzmb7/browse?queryText=-class%3Anull&pageSize=50&startingIndex=0&browseQuery=true)
 * [Rupiah detection and counting (roboflow)](https://universe.roboflow.com/nusantara/rupiah-detection-and-counting/browse?queryText=-class%3Anull+-class%3AUang-Rupiah+-class%3A%2275.000%22&pageSize=50&startingIndex=0&browseQuery=true)
 
-## Models
+## Notebooks/Codes
 * [**EfficientNetV2B0** (92% Accuracy)](EfficientNetV2B0/EffNetV2B0_92.ipynb)
 * [**InceptionV3**](InceptionV3)
-* [**EfficientNetV2B0**] (Adamax optimizer)](EfficientNetV2B0/using the ADAMAX optimizer)
+* [**EfficientNetV2B0** (Adamax optimizer)](https://github.com/Rupiah-Reader-C241-PS460/ML-Progress/tree/main/EfficientNetV2B0/using%20the%20ADAMAX%20optimizer)
+
+## Models
+* EffNetV2B0_92.h5: [Google Drive](https://drive.google.com/drive/folders/1Ooe_4EIdWHlRSCv5VkXMZ4T8o4HxlozI?usp=sharing)
