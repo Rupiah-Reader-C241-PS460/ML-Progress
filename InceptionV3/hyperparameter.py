@@ -5,5 +5,5 @@ parameter = {
     "test_batch_size": 32,
     "learning_rate": 0.0001,
     "epochs": 50,
-    "version": 2,
+    "version": 1,
 }
