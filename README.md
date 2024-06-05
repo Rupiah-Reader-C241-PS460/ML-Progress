@@ -14,6 +14,6 @@ Handpicked from:
 * [Rupiah detection and counting (roboflow)](https://universe.roboflow.com/nusantara/rupiah-detection-and-counting/browse?queryText=-class%3Anull+-class%3AUang-Rupiah+-class%3A%2275.000%22&pageSize=50&startingIndex=0&browseQuery=true)
 
 ## Models
-* [EffNetV2B0.ipynb: 92% Test Accuracy](https://drive.google.com/drive/folders/1Ooe_4EIdWHlRSCv5VkXMZ4T8o4HxlozI?usp=sharing)
-* [Model 2]()
+* [**EfficientNetV2B0** (92% Accuracy)](EfficientNetV2B0/EffNetV2B0_92.ipynb)
+* [**InceptionV3**](InceptionV3)
 * [Model 3]()
