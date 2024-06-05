@@ -16,4 +16,4 @@ Handpicked from:
 ## Models
 * [**EfficientNetV2B0** (92% Accuracy)](EfficientNetV2B0/EffNetV2B0_92.ipynb)
 * [**InceptionV3**](InceptionV3)
-* [**EfficientNetV2B0** (Adamax optimizer)](EfficientNetV2B0/using the ADAMAX optimizer)
+* [**EfficientNetV2B0**] (Adamax optimizer)](EfficientNetV2B0/using the ADAMAX optimizer)
