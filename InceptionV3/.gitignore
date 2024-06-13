@@ -2,3 +2,5 @@ data/
 data.zip
 
 saved_model/
+
+__pycache__
