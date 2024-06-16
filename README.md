@@ -16,8 +16,9 @@ Handpicked from:
 * [**EfficientNetV2B0** (92% Accuracy)](EfficientNetV2B0/EffNetV2B0_92.ipynb)
 * [**EfficientNetV2M** (89% Accuracy)](EfficientNetV2M/EffNetV2M_89/EffNetV2M_train.ipynb)
 * [**InceptionV3**](InceptionV3)
-* [**EfficientNetV2B0** (Adamax optimizer)](https://github.com/Rupiah-Reader-C241-PS460/ML-Progress/tree/main/EfficientNetV2B0/using%20the%20ADAMAX%20optimizer)
-* [**ResNet50** (83% Accuracy)](https://github.com/Rupiah-Reader-C241-PS460/ML-Progress/blob/main/ResNet50/ResNet50_83.ipynb)
+* [**Vision Tranformer (ViT)**](VisionTranformer/vit_transfer_learning.ipynb)
+* [**EfficientNetV2B0** (Adamax optimizer)](EfficientNetV2B0/using%20the%20ADAMAX%20optimizer)
+* [**ResNet50** (83% Accuracy)](ResNet50/ResNet50_83.ipynb)
 
 ## Models
 * EffNetV2B0_92.h5: [Google Drive](https://drive.google.com/drive/folders/1Ooe_4EIdWHlRSCv5VkXMZ4T8o4HxlozI?usp=sharing)
