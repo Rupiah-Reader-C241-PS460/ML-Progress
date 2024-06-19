@@ -1,4 +1,8 @@
+.ipynb_checkpoints
+
 data.zip
 data
 
 saved_model
+hf_model
+tf_model
