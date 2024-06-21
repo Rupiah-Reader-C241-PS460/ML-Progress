@@ -4,7 +4,7 @@ Progress of ML Devision
 
 ## Dataset
 
-[Dataset link](https://drive.google.com/file/d/1_AziIzy6iCUVzQewPlq_QhBvdXlsmyg_/view?usp=sharing)
+[Dataset link](https://drive.google.com/file/d/14m2XW31x_UWAqUeoM0SNVsH3kwyBIAVy/view?usp=sharing)
 
 Handpicked from:
 * [Uang emisi 2022 baru (kaggle.com)](https://www.kaggle.com/datasets/fannyzahrahramadhan/uang-emisi-2022-baru)
